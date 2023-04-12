@@ -10,6 +10,7 @@ namespace task_4
 			int age;
 			string zodiac;
 			string workPlace;
+
 			Console.WriteLine("введите имя");
 			name = Console.ReadLine();
 			Console.WriteLine("ваш возраст");
